@@ -1,5 +1,7 @@
 <div align="center">
-
+    <div>博客园的美化效果</div>
+    
+    
 <img src="./img/simple1.png" />
 
 <br>
